@@ -1,0 +1,12 @@
+Arduino MEGA
+	Air Quality Sensor(I2C)
+	Barometer & Humidity & Temperature(I2C)
+	Sunlight Sensor(I2C)
+	
+	Breadboard:
+		OLED 96x96(I2C)
+		LED Display
+		
+	Specs:	
+		A4 - SDA
+		A5 - SCL
